@@ -16,10 +16,10 @@ The application will allow the user to search for sites by name. It will be able
 Added to this brief we are required to include one extra operation in our application which must be suitable and useful for our application.
 
 The following operations must be included in this task
-	Open and input a graph from an external file
-	Search for a site
-	Insert and search for an edge
-	Given a site, display all sites connected to it
-	Given a site, display the closet site to it
-  Plus, our extra operation which is allowing the program to select a random site for you to start from.
+- Open and input a graph from an external file
+- Search for a site
+- Insert and search for an edge
+- Given a site, display all sites connected to it
+- Given a site, display the closet site to it
+- Plus, our extra operation which is allowing the program to select a random site for you to start from.
 
