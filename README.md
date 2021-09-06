@@ -1,7 +1,7 @@
 # TourProject
 Walking tour project written in java
 
-This is the source code of a team assignment for the Discrete Sturctures and Algorithms Module of the Software Development Course in Institute of Technology Carlow.
+This is the source code of a team assignment for the Discrete Structures and Algorithms Module of the Software Development Course in Institute of Technology Carlow.
 
 The assignment was to be completed using a command line program written in java and a text file containing the information for the tour.
 
